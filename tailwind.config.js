@@ -6,7 +6,6 @@ module.exports = {
       backgroundImage: {
         "hero-pattern":
           "url('/images/viktor-forgacs-XBGrm3qPCTw-unsplash 1.png')",
-        "images-10": "url('/images/image 10.png')",
       },
     },
   },
